@@ -3,4 +3,4 @@
 </a>
 
 ### Hi there 👋
-I'm founder and lead developer of Stacket Group, i develop new and highly advanced infrastructure and systems with the latest and greatest libraries with scaling in mind.
+My name is Mikkel. I'm a student, that loves to code in my free time.
