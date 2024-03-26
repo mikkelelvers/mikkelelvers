@@ -3,4 +3,4 @@
 </a>
 
 ### Hi there 👋
-Welcome to my GitHub page! I'm Mikkel, also known as Udvikleren. I enjoy coding in my free time, where I mostly code in JavaScript, or Java.
+Welcome to my GitHub page! I'm Mikkel. I enjoy coding in my free time, where I try to code a bit of everything.
